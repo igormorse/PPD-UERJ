@@ -5,7 +5,7 @@ run:
 	gcc primo_sequential.c -lm -fopenmp -o primo_sequential -w
 	gcc primo_thread.c -lm -fopenmp -o primo_thread -w
 
-over:
+oversubscription:
 	bash Scripts/oversubscription.sh
 
 sequential:
