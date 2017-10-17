@@ -11,3 +11,5 @@
 **make all-over** - Executa todos os Scripts exceto o Over ( Guided, Static, Dynamic , Sequential ) e coloca os resultados separadamente em Results.
 
 **make clean** - Limpa os Arquivos Executáveis.
+
+`Os Argumentos vão de 1 à 10000000 para todos os Casos`
