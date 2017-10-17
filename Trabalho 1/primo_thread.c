@@ -28,7 +28,6 @@ int ehprimo(long int n)
 	int primo = 1;
 	long int i;
 	
-	#pragma omp parallel for
 	
 	for (i=2;i<sqrt(n+1);i++)
 	{
