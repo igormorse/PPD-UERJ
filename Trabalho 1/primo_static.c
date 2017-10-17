@@ -10,7 +10,8 @@ int main(int argc, char ** argv)
 	long int inf=atoi(argv[1]);
 	long int sup=atoi(argv[2]);
 	
-	
+	#pragma omp parallel for schedule(static) reduction(+:cp)
+
 	for (i=inf; i<=sup; i++)
 		if (ehprimo(i))
 		{
