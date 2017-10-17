@@ -1,1 +1,5 @@
-(time ./primo_${1} 1 10000000) > Results/${1}.txt 2>&1
+DATA=$(date "+%F %T")
+
+OUTPUT_FILE="Results/${1} - $DATA.txt"
+
+(time ./primo_${1} 1 10000000) > "${OUTPUT_FILE}" 2>&1

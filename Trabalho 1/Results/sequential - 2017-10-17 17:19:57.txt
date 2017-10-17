@@ -1,0 +1,6 @@
+
+Count=664580
+
+real	0m20.340s
+user	0m20.328s
+sys	0m0.004s

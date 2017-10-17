@@ -1,6 +1,0 @@
-
-Count=664580
-
-real	0m19.230s
-user	0m19.184s
-sys	0m0.020s

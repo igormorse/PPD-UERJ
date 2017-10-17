@@ -1,3 +1,7 @@
+DATA=$(date "+%F %T")
+
+OUTPUT_FILE="Results/oversubscription - $DATA.txt"
+
 for i in {2..128..2};
 	do
 		echo -e "----- NUM_THREADS: $i ------\n"
@@ -5,4 +9,4 @@ for i in {2..128..2};
 		time ./primo_thread 1 10000000
 		echo -e "\n----- ACABOU NUM_THREAD: $i -------\n\n"
 
-	done > Results/oversubscription.txt 2>&1
+	done > "${OUTPUT_FILE}" 2>&1
