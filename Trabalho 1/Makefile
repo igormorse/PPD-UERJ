@@ -38,3 +38,4 @@ clean:
 	rm primo_guided
 	rm primo_sequential
 	rm primo_thread
+	rm primo_dynamic
