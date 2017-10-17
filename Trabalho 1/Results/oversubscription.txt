@@ -1,0 +1,768 @@
+----- NUM_THREADS: 2 ------
+
+
+Count=664580
+
+real	0m12.670s
+user	0m20.240s
+sys	0m0.024s
+
+----- ACABOU NUM_THREAD: 2 -------
+
+
+----- NUM_THREADS: 4 ------
+
+
+Count=664580
+
+real	0m6.968s
+user	0m20.772s
+sys	0m0.108s
+
+----- ACABOU NUM_THREAD: 4 -------
+
+
+----- NUM_THREADS: 6 ------
+
+
+Count=664580
+
+real	0m6.409s
+user	0m20.976s
+sys	0m0.108s
+
+----- ACABOU NUM_THREAD: 6 -------
+
+
+----- NUM_THREADS: 8 ------
+
+
+Count=664580
+
+real	0m5.952s
+user	0m20.912s
+sys	0m0.196s
+
+----- ACABOU NUM_THREAD: 8 -------
+
+
+----- NUM_THREADS: 10 ------
+
+
+Count=664580
+
+real	0m5.702s
+user	0m21.048s
+sys	0m0.092s
+
+----- ACABOU NUM_THREAD: 10 -------
+
+
+----- NUM_THREADS: 12 ------
+
+
+Count=664580
+
+real	0m5.756s
+user	0m20.996s
+sys	0m0.148s
+
+----- ACABOU NUM_THREAD: 12 -------
+
+
+----- NUM_THREADS: 14 ------
+
+
+Count=664580
+
+real	0m5.791s
+user	0m21.152s
+sys	0m0.176s
+
+----- ACABOU NUM_THREAD: 14 -------
+
+
+----- NUM_THREADS: 16 ------
+
+
+Count=664580
+
+real	0m5.693s
+user	0m21.132s
+sys	0m0.140s
+
+----- ACABOU NUM_THREAD: 16 -------
+
+
+----- NUM_THREADS: 18 ------
+
+
+Count=664580
+
+real	0m5.966s
+user	0m22.388s
+sys	0m0.256s
+
+----- ACABOU NUM_THREAD: 18 -------
+
+
+----- NUM_THREADS: 20 ------
+
+
+Count=664580
+
+real	0m5.754s
+user	0m21.904s
+sys	0m0.064s
+
+----- ACABOU NUM_THREAD: 20 -------
+
+
+----- NUM_THREADS: 22 ------
+
+
+Count=664580
+
+real	0m5.498s
+user	0m21.348s
+sys	0m0.036s
+
+----- ACABOU NUM_THREAD: 22 -------
+
+
+----- NUM_THREADS: 24 ------
+
+
+Count=664580
+
+real	0m5.550s
+user	0m21.404s
+sys	0m0.092s
+
+----- ACABOU NUM_THREAD: 24 -------
+
+
+----- NUM_THREADS: 26 ------
+
+
+Count=664580
+
+real	0m5.450s
+user	0m21.208s
+sys	0m0.040s
+
+----- ACABOU NUM_THREAD: 26 -------
+
+
+----- NUM_THREADS: 28 ------
+
+
+Count=664580
+
+real	0m5.555s
+user	0m21.468s
+sys	0m0.088s
+
+----- ACABOU NUM_THREAD: 28 -------
+
+
+----- NUM_THREADS: 30 ------
+
+
+Count=664580
+
+real	0m5.636s
+user	0m21.868s
+sys	0m0.084s
+
+----- ACABOU NUM_THREAD: 30 -------
+
+
+----- NUM_THREADS: 32 ------
+
+
+Count=664580
+
+real	0m5.550s
+user	0m21.016s
+sys	0m0.180s
+
+----- ACABOU NUM_THREAD: 32 -------
+
+
+----- NUM_THREADS: 34 ------
+
+
+Count=664580
+
+real	0m5.536s
+user	0m20.980s
+sys	0m0.132s
+
+----- ACABOU NUM_THREAD: 34 -------
+
+
+----- NUM_THREADS: 36 ------
+
+
+Count=664580
+
+real	0m5.553s
+user	0m21.048s
+sys	0m0.088s
+
+----- ACABOU NUM_THREAD: 36 -------
+
+
+----- NUM_THREADS: 38 ------
+
+
+Count=664580
+
+real	0m5.597s
+user	0m21.084s
+sys	0m0.028s
+
+----- ACABOU NUM_THREAD: 38 -------
+
+
+----- NUM_THREADS: 40 ------
+
+
+Count=664580
+
+real	0m5.544s
+user	0m21.096s
+sys	0m0.036s
+
+----- ACABOU NUM_THREAD: 40 -------
+
+
+----- NUM_THREADS: 42 ------
+
+
+Count=664580
+
+real	0m5.727s
+user	0m21.452s
+sys	0m0.120s
+
+----- ACABOU NUM_THREAD: 42 -------
+
+
+----- NUM_THREADS: 44 ------
+
+
+Count=664580
+
+real	0m6.227s
+user	0m21.876s
+sys	0m0.684s
+
+----- ACABOU NUM_THREAD: 44 -------
+
+
+----- NUM_THREADS: 46 ------
+
+
+Count=664580
+
+real	0m5.636s
+user	0m21.216s
+sys	0m0.252s
+
+----- ACABOU NUM_THREAD: 46 -------
+
+
+----- NUM_THREADS: 48 ------
+
+
+Count=664580
+
+real	0m5.455s
+user	0m21.020s
+sys	0m0.092s
+
+----- ACABOU NUM_THREAD: 48 -------
+
+
+----- NUM_THREADS: 50 ------
+
+
+Count=664580
+
+real	0m5.779s
+user	0m20.996s
+sys	0m0.428s
+
+----- ACABOU NUM_THREAD: 50 -------
+
+
+----- NUM_THREADS: 52 ------
+
+
+Count=664580
+
+real	0m5.685s
+user	0m20.984s
+sys	0m0.428s
+
+----- ACABOU NUM_THREAD: 52 -------
+
+
+----- NUM_THREADS: 54 ------
+
+
+Count=664580
+
+real	0m5.523s
+user	0m20.992s
+sys	0m0.164s
+
+----- ACABOU NUM_THREAD: 54 -------
+
+
+----- NUM_THREADS: 56 ------
+
+
+Count=664580
+
+real	0m5.444s
+user	0m20.952s
+sys	0m0.088s
+
+----- ACABOU NUM_THREAD: 56 -------
+
+
+----- NUM_THREADS: 58 ------
+
+
+Count=664580
+
+real	0m5.474s
+user	0m21.020s
+sys	0m0.056s
+
+----- ACABOU NUM_THREAD: 58 -------
+
+
+----- NUM_THREADS: 60 ------
+
+
+Count=664580
+
+real	0m5.524s
+user	0m21.016s
+sys	0m0.144s
+
+----- ACABOU NUM_THREAD: 60 -------
+
+
+----- NUM_THREADS: 62 ------
+
+
+Count=664580
+
+real	0m5.909s
+user	0m21.732s
+sys	0m0.464s
+
+----- ACABOU NUM_THREAD: 62 -------
+
+
+----- NUM_THREADS: 64 ------
+
+
+Count=664580
+
+real	0m5.599s
+user	0m21.752s
+sys	0m0.056s
+
+----- ACABOU NUM_THREAD: 64 -------
+
+
+----- NUM_THREADS: 66 ------
+
+
+Count=664580
+
+real	0m5.407s
+user	0m21.072s
+sys	0m0.024s
+
+----- ACABOU NUM_THREAD: 66 -------
+
+
+----- NUM_THREADS: 68 ------
+
+
+Count=664580
+
+real	0m5.536s
+user	0m21.564s
+sys	0m0.064s
+
+----- ACABOU NUM_THREAD: 68 -------
+
+
+----- NUM_THREADS: 70 ------
+
+
+Count=664580
+
+real	0m5.391s
+user	0m20.988s
+sys	0m0.064s
+
+----- ACABOU NUM_THREAD: 70 -------
+
+
+----- NUM_THREADS: 72 ------
+
+
+Count=664580
+
+real	0m5.357s
+user	0m20.972s
+sys	0m0.024s
+
+----- ACABOU NUM_THREAD: 72 -------
+
+
+----- NUM_THREADS: 74 ------
+
+
+Count=664580
+
+real	0m5.330s
+user	0m20.872s
+sys	0m0.032s
+
+----- ACABOU NUM_THREAD: 74 -------
+
+
+----- NUM_THREADS: 76 ------
+
+
+Count=664580
+
+real	0m5.429s
+user	0m21.148s
+sys	0m0.012s
+
+----- ACABOU NUM_THREAD: 76 -------
+
+
+----- NUM_THREADS: 78 ------
+
+
+Count=664580
+
+real	0m6.601s
+user	0m25.580s
+sys	0m0.112s
+
+----- ACABOU NUM_THREAD: 78 -------
+
+
+----- NUM_THREADS: 80 ------
+
+
+Count=664580
+
+real	0m5.781s
+user	0m22.508s
+sys	0m0.104s
+
+----- ACABOU NUM_THREAD: 80 -------
+
+
+----- NUM_THREADS: 82 ------
+
+
+Count=664580
+
+real	0m5.654s
+user	0m21.328s
+sys	0m0.248s
+
+----- ACABOU NUM_THREAD: 82 -------
+
+
+----- NUM_THREADS: 84 ------
+
+
+Count=664580
+
+real	0m5.601s
+user	0m21.188s
+sys	0m0.124s
+
+----- ACABOU NUM_THREAD: 84 -------
+
+
+----- NUM_THREADS: 86 ------
+
+
+Count=664580
+
+real	0m5.564s
+user	0m21.056s
+sys	0m0.196s
+
+----- ACABOU NUM_THREAD: 86 -------
+
+
+----- NUM_THREADS: 88 ------
+
+
+Count=664580
+
+real	0m5.553s
+user	0m21.064s
+sys	0m0.108s
+
+----- ACABOU NUM_THREAD: 88 -------
+
+
+----- NUM_THREADS: 90 ------
+
+
+Count=664580
+
+real	0m5.552s
+user	0m21.156s
+sys	0m0.056s
+
+----- ACABOU NUM_THREAD: 90 -------
+
+
+----- NUM_THREADS: 92 ------
+
+
+Count=664580
+
+real	0m5.552s
+user	0m21.164s
+sys	0m0.040s
+
+----- ACABOU NUM_THREAD: 92 -------
+
+
+----- NUM_THREADS: 94 ------
+
+
+Count=664580
+
+real	0m5.565s
+user	0m21.052s
+sys	0m0.120s
+
+----- ACABOU NUM_THREAD: 94 -------
+
+
+----- NUM_THREADS: 96 ------
+
+
+Count=664580
+
+real	0m5.541s
+user	0m21.036s
+sys	0m0.132s
+
+----- ACABOU NUM_THREAD: 96 -------
+
+
+----- NUM_THREADS: 98 ------
+
+
+Count=664580
+
+real	0m5.535s
+user	0m21.088s
+sys	0m0.052s
+
+----- ACABOU NUM_THREAD: 98 -------
+
+
+----- NUM_THREADS: 100 ------
+
+
+Count=664580
+
+real	0m5.551s
+user	0m21.144s
+sys	0m0.044s
+
+----- ACABOU NUM_THREAD: 100 -------
+
+
+----- NUM_THREADS: 102 ------
+
+
+Count=664580
+
+real	0m5.677s
+user	0m21.180s
+sys	0m0.176s
+
+----- ACABOU NUM_THREAD: 102 -------
+
+
+----- NUM_THREADS: 104 ------
+
+
+Count=664580
+
+real	0m5.719s
+user	0m21.248s
+sys	0m0.300s
+
+----- ACABOU NUM_THREAD: 104 -------
+
+
+----- NUM_THREADS: 106 ------
+
+
+Count=664580
+
+real	0m5.597s
+user	0m20.948s
+sys	0m0.348s
+
+----- ACABOU NUM_THREAD: 106 -------
+
+
+----- NUM_THREADS: 108 ------
+
+
+Count=664580
+
+real	0m5.427s
+user	0m20.912s
+sys	0m0.116s
+
+----- ACABOU NUM_THREAD: 108 -------
+
+
+----- NUM_THREADS: 110 ------
+
+
+Count=664580
+
+real	0m5.772s
+user	0m21.268s
+sys	0m0.244s
+
+----- ACABOU NUM_THREAD: 110 -------
+
+
+----- NUM_THREADS: 112 ------
+
+
+Count=664580
+
+real	0m5.847s
+user	0m21.736s
+sys	0m0.416s
+
+----- ACABOU NUM_THREAD: 112 -------
+
+
+----- NUM_THREADS: 114 ------
+
+
+Count=664580
+
+real	0m6.211s
+user	0m23.824s
+sys	0m0.132s
+
+----- ACABOU NUM_THREAD: 114 -------
+
+
+----- NUM_THREADS: 116 ------
+
+
+Count=664580
+
+real	0m6.101s
+user	0m23.704s
+sys	0m0.148s
+
+----- ACABOU NUM_THREAD: 116 -------
+
+
+----- NUM_THREADS: 118 ------
+
+
+Count=664580
+
+real	0m5.422s
+user	0m21.192s
+sys	0m0.040s
+
+----- ACABOU NUM_THREAD: 118 -------
+
+
+----- NUM_THREADS: 120 ------
+
+
+Count=664580
+
+real	0m5.386s
+user	0m21.088s
+sys	0m0.024s
+
+----- ACABOU NUM_THREAD: 120 -------
+
+
+----- NUM_THREADS: 122 ------
+
+
+Count=664580
+
+real	0m5.377s
+user	0m21.028s
+sys	0m0.052s
+
+----- ACABOU NUM_THREAD: 122 -------
+
+
+----- NUM_THREADS: 124 ------
+
+
+Count=664580
+
+real	0m5.334s
+user	0m20.872s
+sys	0m0.052s
+
+----- ACABOU NUM_THREAD: 124 -------
+
+
+----- NUM_THREADS: 126 ------
+
+
+Count=664580
+
+real	0m5.349s
+user	0m20.868s
+sys	0m0.080s
+
+----- ACABOU NUM_THREAD: 126 -------
+
+
+----- NUM_THREADS: 128 ------
+
+
+Count=664580
+
+real	0m5.377s
+user	0m21.012s
+sys	0m0.072s
+
+----- ACABOU NUM_THREAD: 128 -------
+
+
