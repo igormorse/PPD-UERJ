@@ -1,7 +1,1 @@
-*
-!*.c
-!*.md
-!*.sh
-!*.txt
-!.gitignore
-!Makefile
+
